@@ -1,0 +1,15 @@
+
+.box{
+  /* border: 2px red solid; */
+  margin: auto;
+  width: 30%;
+  margin-top: 120px;
+}
+body{
+  background-color:white;
+  
+}
+h1{
+  font-style: italic;
+}
+
